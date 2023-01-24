@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_q8A6oFmPEey8s65EdlpF5Q" name="groupworkfsdd2">
+  <eAnnotations xmi:id="_rZDb8FmPEey8s65EdlpF5Q" source="http://ns.yatta.de/umllab">
+    <contents xmi:type="ecore:EAnnotation" xmi:id="_rZDb8VmPEey8s65EdlpF5Q" source="codegen">
+      <details xmi:id="_rZDb8lmPEey8s65EdlpF5Q" key="codeGenerator" value="com.yattasolutions.ecore.ui.codeGenerator"/>
+    </contents>
+    <contents xmi:type="ecore:EAnnotation" xmi:id="_rdlWoFmPEey8s65EdlpF5Q" source="genmodel">
+      <details xmi:id="_rdlWoVmPEey8s65EdlpF5Q" key="href" value="platform:/resource/groupworkFsdd/groupworkFsdd2.genmodel"/>
+    </contents>
+  </eAnnotations>
+  <profileApplication xmi:id="_rY98YFmPEey8s65EdlpF5Q">
+    <eAnnotations xmi:id="_rZA_sFmPEey8s65EdlpF5Q" source="http://www.eclipse.org/uml2/2.0.0/UML">
+      <references xmi:type="ecore:EPackage" href="pathmap://UML_PROFILES/Ecore.profile.uml#_z1OFcHjqEdy8S4Cr8Rc_NA"/>
+    </eAnnotations>
+    <appliedProfile href="pathmap://UML_PROFILES/Ecore.profile.uml#_0"/>
+  </profileApplication>
+</uml:Model>

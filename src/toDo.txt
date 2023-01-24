@@ -1,0 +1,46 @@
+TODO assign values (Done)
+
+Mingog
+Life: 50 Strength: 50 Accuracy: .5 Range: 65 Speed: 60
+
+Lunzar
+Life: 45 Strength: 40 Accuracy: .6 Range: 85 Speed: 55
+
+Trul
+Life: 70 Strength: 90 Accuracy: .2 Range: 40 Speed: 25
+
+Evu
+Life: 80 Strength: 45 Accuracy: .3 Range: 20 Speed: 80
+
+Sirith
+Life: 100 Strength: 30 Accuracy: .4 Range: 50 Speed: 45
+
+TODO Unit Privileges (Done)
+1. Move - 1
+2. Collect - 1 (Upgrade Individual units - 1)
+3. Attack - 1
+4. Find enemey and guidelines for attack - 1
+5. Find objects for collections - 1
+
+TODO Player Privileges (Done)
+1. Buy - 1
+2. Call Specialities- 1
+3. Upgrade - 1
+
+TODO Engine Privileges (Done)
+1. Refresh every turn and kick out killed units - 1
+2. Player calls - 1 (Player Privileges)
+3. Each Unit Calls - 1
+
+TODO Planets Privileges (Done)
+1. name - 1
+2. abundant stuff - 1
+3. minerals - 1
+
+TODO Testing (Progress)
+1. Cardinality - 1
+2. Array Coorperations - 1
+3. JUnit - 0 //Guy C
+4. Custom Unit Testing - 1
+
+
